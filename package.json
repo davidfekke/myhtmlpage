@@ -1,0 +1,22 @@
+{
+  "name": "myhtmlpage",
+  "version": "1.0.0",
+  "description": "Sample web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfekke/myhtmlpage.git"
+  },
+  "author": "David Fekke <david@fekke.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/davidfekke/myhtmlpage/issues"
+  },
+  "homepage": "https://github.com/davidfekke/myhtmlpage#readme",
+  "devDependencies": {
+    "serve": "^10.1.2"
+  }
+}
